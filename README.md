@@ -1,1 +1,1 @@
-# Proyecto_Sistema_Recomendacion_Hoteles_Sucre
+# Proyecto_Aplicacion_de_Recomendacion_Hoteles_Sucre
